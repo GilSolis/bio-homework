@@ -1,0 +1,17 @@
+#name{
+    margin-left:250px;
+    display:inline;
+    background-color:#4aaaa5;
+    color:white;
+    padding:10px;
+    
+  }
+
+  #list{
+
+    display: inline;
+    list-style-type: none;
+    color:gray;
+    padding:10px;
+      
+}
