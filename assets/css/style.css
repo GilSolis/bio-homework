@@ -86,3 +86,27 @@ p {
     }
 
 
+    /* contact.html styling */
+
+form {
+    margin: 10px;
+    color:#777;
+
+  }
+.input{
+  padding:5px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  width: 100%;
+  border:1px solid #ccc;
+  }
+
+
+.button {color:#fff;
+  background-color:#4aaaa5;}
+
+.category {padding: 5px;
+          }
+
+
+
+
