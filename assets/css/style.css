@@ -14,6 +14,7 @@ html body {
 header {
     border-bottom:2px solid #ccc;
     background-color:white;
+    height:47px;
   }
   
 #name{
