@@ -118,13 +118,15 @@ form {
     /* portfolio.html styling */      
 
 .pictures {
-  width: 10%;
+  width: 20%;
   
 }
+
 
 .description{
   background-color:#4aaaa5;
   color:white;
   text-align: center;
+  padding-right: auto;
 }
 
