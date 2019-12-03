@@ -115,5 +115,16 @@ form {
           }
 
 
+    /* portfolio.html styling */      
 
+.pictures {
+  width: 10%;
+  
+}
+
+.description{
+  background-color:#4aaaa5;
+  color:white;
+  text-align: center;
+}
 
