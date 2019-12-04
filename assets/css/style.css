@@ -50,6 +50,7 @@ header {
     background-color:white;
     margin-top:20px;
     border-color:#ddd;
+    padding-bottom: 50%;
     
        
   }
@@ -62,17 +63,19 @@ h2 {
     margin-left: 10px;
     margin-right: 10px;
     padding:10px;
+    }
 
-  }
 img {
     margin-left: 10px;
     max-height:250px;
-    display: inline-block;    
+    float: left; 
+    padding-right: 2%;
+    padding-top: 2%;   
   }
 
 p {
-  display: inline-block;
-  
+  display: inline;
+      
   }
 
 #sticky {
