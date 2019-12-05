@@ -119,7 +119,7 @@ form {
           }
 
 
-    /* portfolio.html styling */  
+/* portfolio.html styling */  
     
 
 .pictures{
@@ -131,27 +131,21 @@ form {
         }
 
 .pictures img {
-    width: 100%;
-    margin: 0;
+      width: 100%;
+      margin: 0;
   }
 
 .pictures p {
-/*position: absolute;
-background:#4aaaa5;
-margin-left: 0;
-color: white;
-text-align: center;*/
-
-position: absolute;
-top: 50%;
-width: 91.6%;
-text-align: center;
-font-size: 14px;
-padding: 10px;
-background-color: #4aaaa5;
-color: #ffffff;
-left: 0;
-font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 50%;
+    width: 91.6%;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
