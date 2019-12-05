@@ -35,7 +35,7 @@ header {
 
 #list li{
     display:inline-block;
-  }
+    }
 
 #list a{
     color:#777;
@@ -50,7 +50,7 @@ header {
     background-color:white;
     margin-top:20px;
     border-color:#ddd;
-    padding-bottom: 50%;
+    padding-bottom: 25%;
     
        
   }
@@ -86,6 +86,7 @@ p {
     width:100%;
     text-align: center;
     bottom:0;
+    left: 0;
     }
 
 
@@ -120,16 +121,4 @@ form {
 
     /* portfolio.html styling */      
 
-.pictures {
-  width: 20%;
-  
-}
-
-
-.description{
-  background-color:#4aaaa5;
-  color:white;
-  text-align: center;
-  padding-right: auto;
-}
 
